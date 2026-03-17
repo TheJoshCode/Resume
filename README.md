@@ -1,11 +1,7 @@
 # Joshua Roberts  
-### Senior AI Systems Engineer | RTOS | Embedded AI  
+## Senior AI Systems Engineer | RTOS | Embedded AI  
 
-📍 Eastern US  
-📧 joshrobertsaiml@gmail.com  
-📞 (812) 791-2800  
-🔗 [GitHub](https://github.com/TheJoshCode)
-
+## 📍 Eastern US | 🔗 [GitHub](https://github.com/TheJoshCode) | 📧 joshrobertsaiml@gmail.com | 📞 (812) 791-2800 
 ---
 
 ## 🚀 Professional Summary
