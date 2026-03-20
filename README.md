@@ -57,11 +57,13 @@ Focused on improving:
 ### **AI Race Systems Lead** — Code19 Racing  
 *Mar 2025 – Nov 2025*
 
-- Led development of **Maveric AI**, an AI race crew chief system ingesting real-time telemetry from an autonomous Formula-style racecar  
-- Delivered **live situational awareness + voice-based feedback** to drivers and pit crews  
-- Designed **low-latency pipelines** from telemetry → inference → actionable insights  
-- Built **multimodal AI workflows** combining telemetry, vision, and LLM reasoning  
-- Improved operator decision-making via **natural language interaction with race data**
+- Led development of Maveric AI, an AI race crew chief system ingesting real-time telemetry from an autonomous
+- Formula-style racecar, delivering live situational awareness + voice-based feedback to drivers and pit crews via
+integrated comms.
+- Led a team of ai engineers and UX developers to fully develop and scale Maveric into a production ready system for
+the F1 league.
+- Competed at DoD events for agents for autonomy and situational awareness at military bases and installations.
+- Worked directly with soldiers and DoD to improve UX and usability for practical use cases on-location.
 
 ---
 
