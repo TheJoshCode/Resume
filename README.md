@@ -58,6 +58,8 @@ Focused on improving:
 
 - Engineering Embedded Agent Systems for startups, individuals, and clients on Freelancer.org
 
+---
+
 ### **Senior AI Engineer** — Code19 Racing  
 *Mar 2025 – Nov 2025*
 
