@@ -4,7 +4,7 @@
 ## 📍 Eastern US | 🔗 [GitHub](https://github.com/TheJoshCode) | 📧 joshrobertsaiml@gmail.com | 📞 (812) 791-2800 
 ---
 
-## 🚀 Professional Summary
+## Professional Summary
 
 AI Systems Engineer with 6+ years of experience building **real-time, on-device AI systems** for telemetry-driven decision-making.
 
@@ -22,7 +22,7 @@ Focused on improving:
 
 ---
 
-## 🧠 Skills
+## Skills
 
 ### Embedded & Edge AI
 - Jetson Orin
@@ -52,7 +52,7 @@ Focused on improving:
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### **Embedded AI Software Engineer** — Freelancer.com
 *Nov 2025 - Current*
@@ -95,7 +95,7 @@ the F1 league.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor’s Degree (Computer Science)**  
 Ivy Tech Community College  
@@ -106,7 +106,7 @@ Ivy Tech Community College
 
 ---
 
-## 🏎️ Focus Areas
+## Focus Areas
 
 - Real-time AI for motorsports  
 - Autonomous racing systems  
@@ -115,7 +115,7 @@ Ivy Tech Community College
 
 ---
 
-## 📌 Current Interests
+## Current Interests
 
 - AI race engineering systems (crew chief automation)  
 - Low-latency multimodal inference  
@@ -124,7 +124,7 @@ Ivy Tech Community College
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 If you're working on:
 - Racing / motorsports tech  
