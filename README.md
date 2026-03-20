@@ -55,7 +55,7 @@ Focused on improving:
 ## 💼 Experience
 
 ### **Embedded AI Software Engineer** — Freelancer.com
-
+*Nov 2025 - Current*
 - Engineering Embedded Agent Systems for startups, individuals, and clients on Freelancer.org
 
 ---
